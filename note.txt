@@ -1,0 +1,4 @@
+python install -g appium
+appium
+
+appium driver install uiautomator2
