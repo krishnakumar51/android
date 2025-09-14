@@ -1,0 +1,16 @@
+adb shell pm list packages --user 0
+
+package:st.android.imsspublico
+
+
+
+
+
+
+
+adb shell dumpsys package st.android.imsspublico
+
+android.intent.action.MAIN:
+  6d076ec st.android.imsspublico/crc642176304cdb761b92.Splash filter 186bab5
+    Action: "android.intent.action.MAIN"
+    Category: "android.intent.category.LAUNCHER"
