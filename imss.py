@@ -370,8 +370,8 @@ def main():
     print("=" * 60)
     
     # Test configuration
-    test_curp = "ABCD123456HEFGHI01"  # Replace with real CURP
-    test_email = "test2925dtbe@outlook.com"  # Replace with real email
+    test_curp = "CAAN761215HPLMNX06"  # Replace with real CURP
+    test_email = "kkrishnag51@outlook.com"  # Replace with real email
     
     print("⚠️  REPLACE WITH REAL VALUES:")
     print(f"   CURP: {test_curp}")
